@@ -23,6 +23,24 @@ g. JDK version : 1.7
 10. Mendatory features have been achieved but few optional features could not be met due to time constraint.
 11. Automated test suite could not be achieved due to time constraint.
 
+Application Screenshots:
+
+Login page:
 
 ![Alt text](/Cashman%203001%20Screenshots/Login.JPG?raw=true "Optional Title")
 
+Login validation:
+
+![Alt text](/Cashman%203001%20Screenshots/Login_validation.JPG?raw=true "Optional Title")
+
+Welcome page:
+
+![Alt text](/Cashman%203001%20Screenshots/Welcome.JPG?raw=true "Optional Title")
+
+Cash Withdrawal:
+
+![Alt text](/Cashman%203001%20Screenshots/Withdraw_Success.JPG?raw=true "Optional Title")
+
+Withdrawal Error:
+
+![Alt text](/Cashman%203001%20Screenshots/Withdraw_failure.JPG?raw=true "Optional Title")
