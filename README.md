@@ -3,13 +3,14 @@ This is a cash dispensing application for use in an ATM or similar device.  Ther
 
 Assumptions:
 
-1. This application has been developed using the following
-a. IDE: Eclipse Neon.3 Release (4.6.3)
-b. Framework :  Spring MVC 3.2.13.RELEAS
-c. UI : Bootstrap v3.3.4
-d. Build Tool : Maven
-e. Deployment Environment: WebSphere Application Server Liberty Profile
-f. Package Type : WAR
+1. This application has been developed using the following<br/>
+a. IDE: Eclipse Neon.3 Release (4.6.3)<br/>
+b. Framework :  Spring MVC 3.2.13.RELEAS<br/>
+c. UI : Bootstrap v3.3.4<br/>
+d. Build Tool : Maven<br/>
+e. Deployment Environment: WebSphere Application Server Liberty Profile<br/>
+f. Package Type : WAR<br/>
+g. JDK version : 1.7
 
 2. The currency denominations used as per the suulied document
 3. There is no authorisation process kept as per the instructions but a basic authentication has been provided that checks for a valid value for user id and password.
