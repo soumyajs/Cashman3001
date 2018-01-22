@@ -24,4 +24,5 @@ g. JDK version : 1.7
 11. Automated test suite could not be achieved due to time constraint.
 
 
+![Alt text](/Cashman%203001%20Screenshots/Login.JPG?raw=true "Optional Title")
 
