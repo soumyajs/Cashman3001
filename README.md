@@ -23,6 +23,11 @@ g. JDK version : 1.7
 10. Mendatory features have been achieved but few optional features could not be met due to time constraint.
 11. Automated test suite could not be achieved due to time constraint.
 
+Download WAR:
+
+[Download](https://github.com/soumyajs/Cashman3001/raw/master/WAR%20file/Cashman3001-1.0.war)
+
+
 Application Screenshots:
 
 Login page:
